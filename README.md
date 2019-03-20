@@ -1,2 +1,2 @@
-# kaggle-kernels
-Kaggle kernels
+# deep-learning-notes
+
